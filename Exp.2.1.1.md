@@ -11,3 +11,4 @@ class Solution:
             result.extend(new_subsets)
 
         return result
+
